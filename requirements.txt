@@ -1,0 +1,5 @@
+ipython
+ipykernel
+numpy >= 2.1
+pandas
+geopandas
