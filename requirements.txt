@@ -1,5 +1,17 @@
+# This file lists all the dependencies that are required to run the code in this repository.
+
+# Functional libraries
 ipython
 ipykernel
+
+# Data and analysis libraries
 numpy >= 2.1
 pandas
 geopandas
+linref == 0.1.2
+mapclassify
+
+# Visualization libraries
+matplotlib
+seaborn
+folium
