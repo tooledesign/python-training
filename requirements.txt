@@ -15,3 +15,5 @@ mapclassify
 matplotlib
 seaborn
 folium
+plotly
+nbformat
