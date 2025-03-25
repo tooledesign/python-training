@@ -1,5 +1,5 @@
-# Ohio DOT Python Training
-Agenda:
+# Ohio DOT Python Training Agenda
+_Monday April 7, 8:00 AM - 4:00 PM, instructed by Tariq Shihadah_
 
 **Getting Started (30 minutes)**
 - Introductions (15 minutes)
