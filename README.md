@@ -21,7 +21,7 @@ _Monday April 7, 8:00 AM - 4:00 PM, instructed by Tariq Shihadah_
 
 **Data Analysis (3 hours)**
 - Data structures, file types, and compatibility (15 minutes, discussion)
-- Exploring spatial data, data cleaning, and creating pivot tables (1 hour)
+- Exploring spatial data, data cleaning, pivot tables, and plotting with `plotly` (1 hour)
 - Spatial analysis using `geopandas` (30 minutes)
 - Creating HTML-based interactive maps with `folium` (30 minutes)
 - Network screening and creating a high-injury network with `linref` (45 minutes)
