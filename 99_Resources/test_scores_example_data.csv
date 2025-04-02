@@ -1,11 +1,11 @@
-﻿student_name,test_score
-Renad,90
-Sam,93
-Tariq,81
-Caleb,92
-Sereen,94
-Layla,90
-John,86
-Anna,96
-Peter,72
-Linda,94
+﻿student_name,test_score,age,program,college,state
+Renad,90,18,Computer Science,Engineering,Ohio
+Sam,53,21,Media,Liberal Arts,Ohio
+Tariq,81,,Civil,Engineering,Illinois
+Caleb,78,22,Communication,Liberal Arts,Ohio
+Sereen,94,19,Media,Liberal Arts,Illinois
+Layla,82,21,Computer Science,Engineering,Ohio
+John,,22,Civil,Engineering,Illinois
+Anna,96,20,Civil,Engineering,Ohio
+Peter,,19,,Liberal Arts,Ohio
+Linda,94,22,Computer Science,Engineering,Illinois

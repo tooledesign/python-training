@@ -11,19 +11,19 @@ _Monday April 7, 8:00 AM - 4:00 PM, instructed by Tariq Shihadah and facilitated
 - GitHub basics, downloading the repo
 - Creating and setting up our "virtual environment"
 
-**Python Basics (1.5 hours)**
-- Basic features, data types, and more (45 minutes)
-- Interacting with data using the `pandas` library (45 minutes)
+**Python Basics (2 hours)**
+- Basic features, data types, and more (60 minutes)
+- Interacting with data using the `pandas` library (60 minutes)
 - Object-oriented programming and the `class` structure (optional)
 - How to learn Python on your own (optional, discussion)
 
 **[Lunch Break]**
 
-**Data Analysis (3 hours)**
+**Data Analysis (2.5 hours)**
 - Data structures, file types, and compatibility (15 minutes, discussion)
-- Exploring spatial data, data cleaning, pivot tables, and plotting with `plotly` (1 hour)
+- Exploring spatial data, data cleaning, pivot tables, and plotting with `plotly` (45 minutes)
 - Spatial analysis using `geopandas` (30 minutes)
-- Creating HTML-based interactive maps with `folium` (30 minutes)
+- Creating HTML-based interactive maps with `folium` (15 minutes)
 - Network screening and creating a high-injury network with `linref` (45 minutes)
 - Interacting with online APIs with Python to access data (optional)
 
