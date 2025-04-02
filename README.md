@@ -1,5 +1,5 @@
 # Ohio DOT Python Training Agenda
-_Monday April 7, 8:00 AM - 4:00 PM, instructed by Tariq Shihadah_
+_Monday April 7, 8:00 AM - 4:00 PM, instructed by Tariq Shihadah and facilitated by Kenneth Harvey and Katie Wedel_
 
 **Getting Started (30 minutes)**
 - Introductions (15 minutes)
