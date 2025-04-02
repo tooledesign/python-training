@@ -1,5 +1,5 @@
 ## Download and Extract the Repository
-Navigate to [Github](https://github.com/tooledesign/python-training) and **click code > download zip**
+Navigate to [Github](https://github.com/tooledesign/python-training) and click `Code > Download zip`
 
 ![image](https://github.com/user-attachments/assets/b1549bbf-b2f7-4b1d-bb66-c5bf16988c9d)
 
@@ -12,17 +12,19 @@ Click on the Explorer icon (2 papers) and open the folder location where python-
 
 ## Open the Terminal in VS Code
 
-Next, click **View > Terminal**
+Next, click `View > Terminal`
 
-Click the drop down to change to **Command Prompt**
+Click the drop down to change to `Command Prompt`
 
 ![image](https://github.com/user-attachments/assets/60691b20-33a0-4475-98be-0a73e65b9e3b)
 
 ## Set up a Virtual Environment
 
-type ```python -m venv venv```
+type ```python -m venv venv``` and hit enter to create a virtual environment in the working folder.
+_Note: the keyword of `python` may be different depending on how your install is setup. If it doesn't work, try `python3`, `py`, `py3`, or similar._
 
-type ```venv/scripts/activate```
+
+type ```venv/Scripts/activate``` and hit enter to activate the virtual environment. VS Code may note that a new virtual environment has been detected, asking if you'd like to make it the default environment for this workspace, please accept.
 
 ![image](https://github.com/user-attachments/assets/b63758fe-0f64-44a9-a4f9-f75cc029a4bb)
 
@@ -42,7 +44,7 @@ This is what you will see when the command ends:
 
 ## Confirm Environment Setup is Done
 
-Open 01B Basic Data and run (play sign) the Load Dependencies cell.  This will prompt to install the Jupyter extension.  Click **yes/allow**.  Once Jupyter is installed, click **select a python environment** in the search bar and select your virtual environment **venv (Python 3.13.2)**
+Open 01B Basic Data and run (play sign) the Load Dependencies cell.  This will prompt to install the Jupyter extension.  Click `yes/allow`.  Once Jupyter is installed, click `select a python environment` in the search bar and select your virtual environment (e.g., `venv (Python 3.13.2)`).
 
 Your cell should show a green check and duration of how long it took to execute the cell if successful.
 
