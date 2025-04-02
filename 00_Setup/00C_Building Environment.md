@@ -42,9 +42,17 @@ This is what you will see when the command ends:
 
 ![image](https://github.com/user-attachments/assets/40af5080-380e-4107-afd2-781755c56caa)
 
-## Confirm Environment Setup is Done
+## Ensure Dependencies are Installed
 
-Open 01B Basic Data and run (play sign) the Load Dependencies cell.  This will prompt to install the Jupyter extension.  Click `yes/allow`.  Once Jupyter is installed, click `select a python environment` in the search bar and select your virtual environment (e.g., `venv (Python 3.13.2)`).
+We have prepared a test file to ensure that required dependencies have been installed in your active environment. Run this test with Python with the following command in the Command Prompt window:
+
+```python "00_Setup\00D_Environment Test.py"```
+
+This should print out a success message if the environment is setup correctly. Otherwise, it will indicate which Python libraries are not yet installed.
+
+## Activate the Virtual Environment on Jupyter Notebook Files
+
+As you open up and run Jupyter Notebook files (files with the `.ipynb` extension) during this course, you will need to select the created virtual environment to run them in. Once you open one of these notebooks and try to run a cell using the `Play` symbol or by hitting `Ctrl+Enter` or `Shift+Enter`, VS Code will prompt you to `select a python environment` in the search bar. Select your virtual environment (e.g., `venv (Python 3.13.2)`) and try to run the cell again.
 
 Your cell should show a green check and duration of how long it took to execute the cell if successful.
 

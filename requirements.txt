@@ -10,6 +10,7 @@ pandas
 geopandas
 linref == 0.1.2
 mapclassify
+statsmodels
 
 # Visualization libraries
 matplotlib
