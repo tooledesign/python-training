@@ -24,7 +24,7 @@ type ```python -m venv venv``` and hit enter to create a virtual environment in 
 _Note: the keyword of `python` may be different depending on how your install is setup. If it doesn't work, try `python3`, `py`, `py3`, or similar._
 
 
-type ```venv/Scripts/activate``` and hit enter to activate the virtual environment. VS Code may note that a new virtual environment has been detected, asking if you'd like to make it the default environment for this workspace, please accept.
+type ```venv\Scripts\activate``` and hit enter to activate the virtual environment. VS Code may note that a new virtual environment has been detected, asking if you'd like to make it the default environment for this workspace, please accept.
 
 ![image](https://github.com/user-attachments/assets/b63758fe-0f64-44a9-a4f9-f75cc029a4bb)
 
