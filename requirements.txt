@@ -11,6 +11,8 @@ geopandas
 linref == 0.1.2
 mapclassify
 statsmodels
+openpyxl
+xlsxwriter
 
 # Visualization libraries
 matplotlib
