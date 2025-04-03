@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Various data files
+*.xlsx
+*.xls
+*.sqlite3
+*.db
+*.gpkg
