@@ -58,8 +58,9 @@ Your cell should show a green check and duration of how long it took to execute 
 
 ![image](https://github.com/user-attachments/assets/a840d0fb-0b1a-4217-983f-a3600e2c54c0)
 
+## Download Sample Dataset
 
-
+You can download the sample dataset used in this training at <a href="https://tooledesign.egnyte.com/dl/7kCQctdWKQVV" target="_blank" rel="noopener noreferrer">this link</a>. Download the GeoPackage file and save it in the `99_Resources` folder. This is where the scripts expect it to be, so no adjustments need to be made to filepaths in the script files.
 
 
 
